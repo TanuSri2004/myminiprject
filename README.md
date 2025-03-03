@@ -1,0 +1,1 @@
+This pproject is about Seccuring the organization's data usind a third party called Mail server so that we can access the uploaded data from the cloud using the secret key generated to the usres registered emAIL ID'S.  
